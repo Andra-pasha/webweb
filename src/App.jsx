@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
-import Home from "./pages/Home.jsx";
-import About from "./pages/About.jsx";
-import Contact from "./pages/Contact.jsx";
-import Jurusan from "./pages/Jurusan.jsx";
-import Dokumentasi from "./pages/Testimoni.jsx";
+import Home from "./Pages/Home.jsx";
+import About from "./Pages/About.jsx";
+import Contact from "./Pages/Contact.jsx";
+import Jurusan from "./Pages/Jurusan.jsx";
+import Dokumentasi from "./Pages/Testimoni.jsx";
 import "./App.css";
 
 function App() {
