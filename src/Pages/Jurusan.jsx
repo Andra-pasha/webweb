@@ -1,9 +1,9 @@
 import React from "react";
 
 // Import logo dari folder assets
-import logoTKR from "../assets/logo-tkr.png";
-import logoTKI from "../assets/logo-tki.png";
-import logoTKJ from "../assets/logo-tkj.png";
+import logoTKR from "../assets/TKR.jpeg";
+import logoTKI from "../assets/TKI.jpeg";
+import logoTKJ from "../assets/TKJ.JPEG";
 
 function Jurusan() {
   return (
